@@ -1,0 +1,8 @@
+Over half of the respondents have used duolingo before. 
+With that in mind, only half of the users who completed the survey were able to successfully navigate to their friends list and add another user. 
+This suggests that the UI should be clearer and is confusing even for returning users to the application. 
+Users also reported issues navigating the application when attempting to change between lessons or pause their progress mid-lesson. 
+Users also reported issues with too many tabs and steps to complete simple tasks. 
+While the app is confusing for most users, overall feedback suggested that the aesthetics of duolingo is good. 
+Furthermore, very few people said they were average and excellent. 
+Overall, there wasn’t any negative comments on the visual design of the app.  
